@@ -1,0 +1,47 @@
+{
+
+ "Account": {
+"Username": "XOXO6969",
+     "Password": "beka#3232"
+     },
+ "Target Profit": "5",
+ "Target Win": "0",
+ "Lose Target": "0",
+ "Reset If Target Profit": "OFF",
+ "Reset If Target Win": "OFF",
+ "Interval": "0",
+ "Config": [{
+
+     "Name Bet Set": " >0< C70 Bet 0.01",
+     "Base Bet": "0.01",
+     "Max Bet": "OFF",
+     "Chance": "70",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "81",
+          "Max": "91"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "OFF",
+              "If Lose": "1",
+              "If Win": "1"
+            }
+        },
+     "If Win": "1",
+     "If Lose": "1.7",
+     "Reset If Win": "2",
+     "Reset If Profit": "0.00000001",
+     "Interval": "0"
+     }
+  ],
+  "Auto Wd": {
+       "Toggle": "ON",
+       "If Balance": "1006",
+       "Wallet Address":   "DDjMhoa4AEXXKZBXP7b4Qvj5n61JJzNiXn",
+       "Amount": "5"
+      },
+  "User-Agent": "Android Phone / Chrome 65 [Mobile]:Mozilla/5.0 (Linux; Android 8.0; BLA-L29 Build/HUAWEIBLA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3236.6 Mobile Safari/537.36"
+
+}
